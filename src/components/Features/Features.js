@@ -1,56 +1,31 @@
 import React from "react"
-import {
-  Bootstrap,
-  Calendar3,
-  CpuFill,
-  GeoFill,
-  House,
-  Speedometer2,
-  Toggles2,
-  Tools,
-} from "react-bootstrap-icons"
+import { Shop, PiggyBank, Basket2Fill, Cart } from "react-bootstrap-icons"
 
 const Items = [
   {
-    icon: <Bootstrap />,
-    title: "Bootstrap Title",
-    description: "Bootstrap description paragraph.",
+    icon: <Shop />,
+    title: "Order Anything You Want",
+    description:
+      "Conveniently order essentials, groceries and a whole variety of products – branded or unbranded – from your nearest stores. Find out which store is known for what and order from the best.",
   },
   {
-    icon: <Calendar3 />,
-    title: "Calender 3",
-    description: "Calender 3 Calender 3 Calender 3",
+    icon: <Basket2Fill />,
+    title: "Order Smartly. Avoid Confusions",
+    description:
+      "Avoid the order confusions and mismatches that generally happen over a phone call. Now, confirm all order specifications and modifications on the website, and get only the perfect orders delivered.",
   },
 
   {
-    icon: <CpuFill />,
-    title: "Calender 3",
-    description: "Calender 3 Calender 3 Calender 3",
+    icon: <PiggyBank />,
+    title: "Pay Online On Delivery",
+    description:
+      "Not just cash, you can now conveniently pay online on delivery using credit card, debit card or net banking.",
   },
   {
-    icon: <GeoFill />,
-    title: "Calender 3",
-    description: "Calender 3 Calender 3 Calender 3",
-  },
-  {
-    icon: <House />,
-    title: "Calender 3",
-    description: "Calender 3 Calender 3 Calender 3",
-  },
-  {
-    icon: <Speedometer2 />,
-    title: "Calender 3",
-    description: "Calender 3 Calender 3 Calender 3",
-  },
-  {
-    icon: <Toggles2 />,
-    title: "Calender 3",
-    description: "Calender 3 Calender 3 Calender 3",
-  },
-  {
-    icon: <Tools />,
-    title: "Calender 3",
-    description: "Calender 3 Calender 3 Calender 3",
+    icon: <Cart />,
+    title: "Get Better Discounts & Offers",
+    description:
+      "Save more by easily checking which nearby store is offering relevant discounts and offers before you purchase your staples.",
   },
 ]
 

@@ -15,20 +15,24 @@ const Hero = () => {
         </div>
         <div className="col-lg-6">
           <h1 className="fat-text lh-1 mb-3">
-            Responsive left-aligned Hero with image
+            BuyNearby!! Your Local Online Store
           </h1>
           <p className="lead">
-            Quickly design and customize responsive mobile-first sites with
-            Bootstrap, the world’s most popular front-end open source toolkit,
-            featuring Sass variables and mixins, responsive grid system,
-            extensive prebuilt components, and powerful JavaScript plugins.
+            Many of you continue to shop at your local stores even today and are
+            still greeted with that nostalgic, homely smile. We share an idyllic
+            bond of trust and convenience with your local
+            shopkeepers.Undoubtedly, these Stores form an essential part of our
+            Indian fabric.you can now conveniently buy your daily essentials
+            online from your local trustworthy store and enjoy more efficient
+            ordering, delivery, and payment services that the shopkeeper is
+            providing by embracing digital.
           </p>
           <div className="d-grid gap-2 d-md-flex justify-content-md-start">
             <button
               type="button"
               className="btn btn-primary shadow px-4 me-md-2"
             >
-              Explore
+              Read More
             </button>
           </div>
         </div>
