@@ -9,7 +9,7 @@ const Hero = () => {
           <Image
             className="d-block mx-lg-auto img-fluid shadow"
             style={{ borderRadius: "10px" }}
-            filename="blog1.jpg"
+            filename="1.jpg"
             alt="hero"
           />
         </div>
