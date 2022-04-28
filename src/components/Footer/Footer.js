@@ -17,115 +17,116 @@ const Footer = () => {
               </li>
               <li className="nav-item mb-2">
                 <a href="/" className="nav-link p-0 text-muted">
-                  Features
+                  Shop
                 </a>
               </li>
               <li className="nav-item mb-2">
                 <a href="/" className="nav-link p-0 text-muted">
-                  Pricing
+                  Contact
                 </a>
               </li>
               <li className="nav-item mb-2">
                 <a href="/" className="nav-link p-0 text-muted">
-                  FAQs
+                  Mart
                 </a>
               </li>
               <li className="nav-item mb-2">
                 <a href="/" className="nav-link p-0 text-muted">
-                  About
+                  Blog
                 </a>
               </li>
             </ul>
           </div>
 
           <div className="col-2">
-            <h5 className="text-primary">Section</h5>
+            <h5 className="text-primary">Contact info</h5>
             <ul className="nav flex-column">
               <li className="nav-item mb-2">
                 <a href="/" className="nav-link p-0 text-muted">
-                  Home
+                  7425095392
                 </a>
               </li>
               <li className="nav-item mb-2">
                 <a href="/" className="nav-link p-0 text-muted">
-                  Features
-                </a>
-              </li>
-              <li className="nav-item mb-2">
-                <a href="/" className="nav-link p-0 text-muted">
-                  Pricing
-                </a>
-              </li>
-              <li className="nav-item mb-2">
-                <a href="/" className="nav-link p-0 text-muted">
-                  FAQs
-                </a>
-              </li>
-              <li className="nav-item mb-2">
-                <a href="/" className="nav-link p-0 text-muted">
-                  About
+                  6299341840
                 </a>
               </li>
             </ul>
           </div>
 
           <div className="col-2">
-            <h5 className="text-primary">Section</h5>
+            <h5 className="text-primary">Email-Address</h5>
             <ul className="nav flex-column">
               <li className="nav-item mb-2">
                 <a href="/" className="nav-link p-0 text-muted">
-                  Home
+                  btbtl19023_arushi@banasthali.in
                 </a>
               </li>
               <li className="nav-item mb-2">
                 <a href="/" className="nav-link p-0 text-muted">
-                  Features
-                </a>
-              </li>
-              <li className="nav-item mb-2">
-                <a href="/" className="nav-link p-0 text-muted">
-                  Pricing
-                </a>
-              </li>
-              <li className="nav-item mb-2">
-                <a href="/" className="nav-link p-0 text-muted">
-                  FAQs
-                </a>
-              </li>
-              <li className="nav-item mb-2">
-                <a href="/" className="nav-link p-0 text-muted">
-                  About
+                  btbtl19179_sunidhi@banasthali.in
                 </a>
               </li>
             </ul>
-          </div>
-
-          <div className="col-6 border-primary">
-            <form>
-              <h5 className="text-primary">Subscribe to our newsletter</h5>
-              <p className="small text-light">
-                Monthly digest of whats new and exciting from us.
-              </p>
-              <div className="d-flex w-100 mb-2">
-                <label for="newsletter1">
-                  Email address
-                  <input
-                    id="newsletter1"
-                    type="text"
-                    className="form-control shadow"
-                    placeholder="Email address"
-                  />{" "}
-                </label>
-              </div>
-              <button className="btn btn-primary shadow" type="button">
-                Subscribe
-              </button>
-            </form>
           </div>
         </div>
+        <section className="contactus-section">
+          <div className="container py-5">
+            <div className="row justify-content-center align-items-center">
+              <div className="col-lg-7 col-md-12">
+                <form
+                  method="POST"
+                  role="presentation"
+                  netlify-honeypot="bot-field"
+                  data-netlify="true"
+                  name="contact"
+                  className="card p-4 shadow mb-4 border-primary"
+                >
+                  <input type="hidden" name="bot-field" />
+                  <input type="hidden" name="form-name" value="contact" />
+                  <div className="form-row">
+                    <div className="col-lg-12 form-group mb-2">
+                      <input
+                        type="email"
+                        className="form-control"
+                        name="email"
+                        id="email"
+                        placeholder="Your Email"
+                      />
+                    </div>
+                  </div>
+
+                  <div className="col-lg-12 form-group mb-4">
+                    <textarea
+                      className="form-control"
+                      name="message"
+                      id="message"
+                      rows="8"
+                      placeholder="Message"
+                    ></textarea>
+                  </div>
+                  <div className="text-center">
+                    <div
+                      className="btn-group text-decoration-none mb-4"
+                      role="group"
+                      aria-label="Send"
+                    >
+                      <button type="submit" className="btn btn-primary shadow">
+                        <span className="mx-4">Submit</span>
+                      </button>
+                      <button type="reset" className="btn btn-light shadow">
+                        Clear
+                      </button>
+                    </div>
+                  </div>
+                </form>
+              </div>
+            </div>
+          </div>
+        </section>
 
         <div className="d-flex text-light justify-content-between py-4 my-4 border-top">
-          <p>&copy; 2021 Company, Inc. All rights reserved.</p>
+          <p>&copy; 2022 Company, Inc. All rights reserved.</p>
           <span>
             <ul className="list-unstyled justify-content-center d-flex mb-0">
               <Link className="ms-3" to="">

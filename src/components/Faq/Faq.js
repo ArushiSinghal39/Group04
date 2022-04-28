@@ -3,26 +3,16 @@ import Accordion from "../Accordion/Accordion"
 
 const Item = [
   {
-    title: "Section 1",
-    content: `Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quis sapiente
-        laborum cupiditate possimus labore, hic temporibus velit dicta earum
-        suscipit commodi eum enim atque at? Et perspiciatis dolore iure
-        voluptatem.`,
+    title: "What is Local Shop",
+    content: `Local Shop is India’s own marketplace that charges 0% commission from sellers. It’s an initiative to empower local shopkeepers & retailers to start their own ecommerce store. We offer you a user-friendly platform to easily manage your products, categories, orders and much more.`,
   },
   {
-    title: "Section 2",
-    content: `Lorem ipsum, dolor sit amet consectetur adipisicing elit. Mollitia veniam
-        reprehenderit nam assumenda voluptatem ut. Ipsum eius dicta, officiis
-        quaerat iure quos dolorum accusantium ducimus in illum vero commodi
-        pariatur? Impedit autem esse nostrum quasi, fugiat a aut error cumque
-        quidem maiores doloremque est numquam praesentium eos voluptatem amet!
-        Repudiandae, mollitia id reprehenderit a ab odit!`,
+    title: "What Payment methods does Local Shop Support",
+    content: `We offer our sellers multiple payment options based on your plan. You can choose credit card, debit card, net banking, cash on delivery and many more. We have tie-ups with several trusted payment gateways such as Paypal, PayZapp, PayUMoney, RazorPay, etc.`,
   },
   {
-    title: "Section 3",
-    content: `Sapiente expedita hic obcaecati, laboriosam similique omnis architecto ducimus magnam accusantium corrupti
-        quam sint dolore pariatur perspiciatis, necessitatibus rem vel dignissimos
-        dolor ut sequi minus iste? Quas?`,
+    title: "Who will offer the delivery services of ecommerce store",
+    content: `we’ll be responsible for delivery of products in our locality & regions.we’ll give you a facility for Local, Regional & National couriers.`,
   },
 ]
 
