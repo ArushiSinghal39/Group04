@@ -1,11 +1,11 @@
 ---
-title: Double chocolate buttercream
+title: Topizo
 date: 2019-06-19
 category: "Grocery"
-id: 2
+id: 1
 price: 300
-image: "Pr_2"
-description: A delicious chocolatey treat.
+image: "Gr_15"
+description: Topizo Namkeen Tasty Peanut, Khatta Meetha Mixture, Pudina Chutni Bhujia, Ratlami Sev.
 customField:
   name: Quantity
   values:
@@ -16,4 +16,4 @@ customField:
     ]
 ---
 
-This is a yummy cake.
+This is a yummy.

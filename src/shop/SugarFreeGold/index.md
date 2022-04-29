@@ -1,11 +1,11 @@
 ---
-title: Chocolate and pretzel cupcakes
+title: Sugar Free Gold
 date: 2019-06-19
 category: "Pharmacy"
 id: 4
 price: 350
 image: "Pr_4"
-description: A delicious pretzel topped treat
+description: A boon to health conscious people & diabetics
 customField:
   name: Pack Size
   values:
@@ -16,4 +16,3 @@ customField:
     ]
 ---
 
-This is a very yummy cake topped with a pretzel.

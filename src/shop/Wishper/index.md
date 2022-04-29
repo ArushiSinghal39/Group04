@@ -1,11 +1,11 @@
 ---
-title: Vanilla buttercream with sprinkles
+title: Whisper Choice Ultra
 date: 2019-06-19
 category: "Pharmacy"
 id: 6
 price: 340
-image: "Pr_6"
-description: A delicious vanilla buttercream treat
+image: "Pr_3"
+description: Provides upto 100% stain protection
 customField:
   name: Pack Size
   values:
@@ -15,5 +15,3 @@ customField:
       { name: "Pack of 12", priceChange: 28.50 },
     ]
 ---
-
-This is a very yummy cake.
