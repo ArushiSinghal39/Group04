@@ -11,8 +11,8 @@ customField:
   values:
     [
       { name: "1", priceChange: 0 },
-      { name: "2", priceChange: 300 },
-      { name: "3", priceChange: 600 },
+      { name: "2", priceChange: 250 },
+      { name: "3", priceChange: 500 },
     ]
 ---
 

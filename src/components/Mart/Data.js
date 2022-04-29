@@ -1,7 +1,7 @@
 const Data = [
   {
     id: "1",
-    category: "Kids Section",
+    category: "Kid'S Wear",
     image: "Bo_1",
     name: "Ethnic Wear Indo Western Kurta Dhoti Set",
     price: "999",
@@ -10,7 +10,7 @@ const Data = [
   },
   {
     id: "2",
-    category: "Kids Section",
+    category: "Kid'S Wear",
     image: "Bo_2",
     name: "Indo Western Sherwani Set",
     price: "1424",
@@ -19,7 +19,7 @@ const Data = [
   },
   {
     id: "3",
-    category: "Kids Section",
+    category: "Kid'S Wear",
     image: "Bo_3",
     name: "Zolario 3 Piece Coat,Pant,shirt",
     price: "899",
@@ -28,7 +28,7 @@ const Data = [
   },
   {
     id: "4",
-    category: "Kids Section",
+    category: "Kid'S Wear",
     image: "Bo_4",
     name: "Ethnic Wear Handloom Cotton Solid Pattern Kurta with White Pyjama Set",
     price: "712",
@@ -37,7 +37,7 @@ const Data = [
   },
   {
     id: "5",
-    category: "Kids Section",
+    category: "Kid'S Wear",
     image: "Bo_5",
     name: "Ethnic Indo Western Sherwani Kurta and Dhoti Pant Set",
     price: "1499",
@@ -46,7 +46,7 @@ const Data = [
   },
   {
     id: "6",
-    category: "Kids Section",
+    category: "Kid'S Wear",
     image: "Bo_6",
     name: "HELLCAT Blended Cotton Polo Tshirt - Navy Blue",
     price: "399",
@@ -56,7 +56,7 @@ const Data = [
 
   {
     id: "7",
-    category: "Kids Section",
+    category: "Kid'S Wear",
     image: "Bo_7",
     name: "Jam & Honey T-Shirt",
     price: "553",
@@ -65,7 +65,7 @@ const Data = [
   },
   {
     id: "8",
-    category: "Kids Section",
+    category: "Kid'S Wear",
     image: "Bo_8",
     name: "U.S. POLO ASSN. Shirt",
     price: "675",
@@ -73,7 +73,7 @@ const Data = [
   },
   {
     id: "9",
-    category: "Kids Section",
+    category: "Kid'S Wear",
     image: "Bo_9",
     name: "Jam & Honey Button down Shirt",
     price: "474",
@@ -82,7 +82,7 @@ const Data = [
   },
   {
     id: "10",
-    category: "Kids Section",
+    category: "Kid'S Wear",
     image: "Bo_10",
     name: "United Color of Benetton Shirt",
     price: "465",
@@ -91,7 +91,7 @@ const Data = [
   },
   {
     id: "11",
-    category: "Kids Section",
+    category: "Kid'S Wear",
     image: "Bo_11",
     name: "T2F Loose Track pants",
     price: "919",
@@ -100,7 +100,7 @@ const Data = [
   },
   {
     id: "12",
-    category: "Kids Section",
+    category: "Kid'S Wear",
     image: "Bo_12",
     name: "Cotton Joggers Track Pants",
     price: "499",
@@ -109,7 +109,7 @@ const Data = [
   },
   {
     id: "13",
-    category: "Kids Section",
+    category: "Kid'S Wear",
     image: "Bo_13",
     name: "Ventra Cotton Checkered Pyjama",
     price: "599",
@@ -118,7 +118,7 @@ const Data = [
   },
   {
     id: "14",
-    category: "Kids Section",
+    category: "Kid'S Wear",
     image: "Bo_14",
     name: "Cotton Printed Jogger Fashion Pants Grey",
     price: "999",
@@ -127,7 +127,7 @@ const Data = [
   },
   {
     id: "15",
-    category: "Kids Section",
+    category: "Kid'S Wear",
     image: "Bo_15",
     name: "Cotton Berry Blue Color Jeans",
     price: "599",
@@ -136,7 +136,7 @@ const Data = [
   },
   {
     id: "16",
-    category: "Kids Section",
+    category: "Kid'S Wear",
     image: "Bo_16",
     name: "JMFCHI SPORTS Shoes ",
     price: "487",
@@ -145,7 +145,7 @@ const Data = [
   },
   {
     id: "17",
-    category: "Kids Section",
+    category: "Kid'S Wear",
     image: "Bo_17",
     name: "Ben-10 Fashion Sandal",
     price: "456",
@@ -154,7 +154,7 @@ const Data = [
   },
   {
     id: "18",
-    category: "Kids Section",
+    category: "Kid'S Wear",
     image: "Bo_18",
     name: "Axter Casual Stylish Sports Shoes ",
     price: "199",
@@ -163,7 +163,7 @@ const Data = [
   },
   {
     id: "19",
-    category: "Kids Section",
+    category: "Kid'S Wear",
     image: "Bo_19",
     name: "Lpmxt-833 Clog",
     price: "990",
@@ -172,7 +172,7 @@ const Data = [
   },
   {
     id: "20",
-    category: "Kids Section",
+    category: "Kid'S Wear",
     image: "Bo_20",
     name: "Softy Walking Shoes   ",
     price: "628",
@@ -181,7 +181,7 @@ const Data = [
   },
   {
     id: "21",
-    category: "Kids Section",
+    category: "Kid'S Wear",
     image: "Gi_1",
     name: "Ethnos Fashion Lehanga Choli",
     price: "699",
@@ -190,7 +190,7 @@ const Data = [
   },
   {
     id: "22",
-    category: "Kids Section",
+    category: "Kid'S Wear",
     image: "Gi_2",
     name: "Banglori Satin with Net Lehenga Choli",
     price: "809",
@@ -199,7 +199,7 @@ const Data = [
   },
   {
     id: "23",
-    category: "Kids Section",
+    category: "Kid'S Wear",
     image: "Gi_3",
     name: "Suppar Sleave Lehanga Choli",
     price: "499",
@@ -208,7 +208,7 @@ const Data = [
   },
   {
     id: "24",
-    category: "Kids Section",
+    category: "Kid'S Wear",
     image: "Gi_4",
     name: "Jacquard and Crepe Indo Western Style",
     price: "809",
@@ -217,7 +217,7 @@ const Data = [
   },
   {
     id: "25",
-    category: "Kids Section",
+    category: "Kid'S Wear",
     image: "Gi_5",
     name: "A.R.K. DRESSES Maxi Dress",
     price: "399",
@@ -226,7 +226,7 @@ const Data = [
   },
   {
     id: "26",
-    category: "Kids Section",
+    category: "Kid'S Wear",
     image: "Gi_6",
     name: "Flare Ball Gown Style Frock/Dress",
     price: "699",
@@ -235,7 +235,7 @@ const Data = [
   },
   {
     id: "27",
-    category: "Kids Section",
+    category: "Kid'S Wear",
     image: "Gi_7",
     name: "Girl's Regular T-Shirt",
     price: "508",
@@ -244,7 +244,7 @@ const Data = [
   },
   {
     id: "28",
-    category: "Kids Section",
+    category: "Kid'S Wear",
     image: "Gi_8",
     name: "BTS Printed T-Shirt",
     price: "529",
@@ -253,7 +253,7 @@ const Data = [
   },
   {
     id: "29",
-    category: "Kids Section",
+    category: "Kid'S Wear",
     image: "Gi_9",
     name: "Wommaniya Impex Crop top",
     price: "599",
@@ -262,7 +262,7 @@ const Data = [
   },
   {
     id: "30",
-    category: "Kids Section",
+    category: "Kid'S Wear",
     image: "Gi_10",
     name: "DALSI Girls Terry Cotton Crop Tops",
     price: "499",
@@ -272,7 +272,7 @@ const Data = [
 
   {
     id: "31",
-    category: "Kids Section",
+    category: "Kid'S Wear",
     image: "Gi_11",
     name: "girls Pajama Bottom",
     price: "149",
@@ -281,7 +281,7 @@ const Data = [
   },
   {
     id: "32",
-    category: "Kids Section",
+    category: "Kid'S Wear",
     image: "Gi_12",
     name: "ARIEL Ankle Leggings",
     price: "274",
@@ -290,7 +290,7 @@ const Data = [
   },
   {
     id: "33",
-    category: "Kids Section",
+    category: "Kid'S Wear",
     image: "Gi_13",
     name: "Chromozome Girl's Loose Pants",
     price: "372",
@@ -299,7 +299,7 @@ const Data = [
   },
   {
     id: "34",
-    category: "Kids Section",
+    category: "Kid'S Wear",
     image: "Gi_14",
     name: "CHEROKEE Track pants",
     price: "567",
@@ -308,7 +308,7 @@ const Data = [
   },
   {
     id: "35",
-    category: "Kids Section",
+    category: "Kid'S Wear",
     image: "Gi_15",
     name: "Jam & Honey Sports Shoes Sneaker    ",
     price: "615",
@@ -317,7 +317,7 @@ const Data = [
   },
   {
     id: "36",
-    category: "Kids Section",
+    category: "Kid'S Wear",
     image: "Gi_16",
     name: "Arete Slipper Flipflops",
     price: "399",
@@ -326,7 +326,7 @@ const Data = [
   },
   {
     id: "37",
-    category: "Kids Section",
+    category: "Kid'S Wear",
     image: "Gi_17",
     name: "ACOSTAR Designer Sandal  ",
     price: "495",
@@ -335,7 +335,7 @@ const Data = [
   },
   {
     id: "38",
-    category: "Kids Section",
+    category: "Kid'S Wear",
     image: "Gi_18",
     name: "Barbie Girl's Sneakers",
     price: "699",
@@ -344,7 +344,7 @@ const Data = [
   },
   {
     id: "39",
-    category: "Kids Section",
+    category: "Kid'S Wear",
     image: "Gi_19",
     name: "United Colors of Benetton Flipflops",
     price: "299",
@@ -353,7 +353,7 @@ const Data = [
   },
   {
     id: "40",
-    category: "Kids Section",
+    category: "Kid'S Wear",
     image: "Gi_20",
     name: "BOOMER CUBS Floral Printed Sandals",
     price: "221",
@@ -990,7 +990,7 @@ const Data = [
   },
   {
     id: "111",
-    category: "Women's Section",
+    category: "Women'S Wear",
     image: "Wt_1",
     name: "Traditional Rajasthani Design front Embroidered Kutchi",
     price: "399",
@@ -998,7 +998,7 @@ const Data = [
   },
   {
     id: "112",
-    category: "Women's Section",
+    category: "Women'S Wear",
     image: "Wt_2",
     name: "Sunrise Paridhan Women's Cotton Dupatta - SPMIR07_Multicolour_Free Size",
     price: "325",
@@ -1006,7 +1006,7 @@ const Data = [
   },
   {
     id: "113",
-    category: "Women's Section",
+    category: "Women'S Wear",
     image: "Wt_3",
     name: "Women's Net Unstitched Lehenga Choli (Pink_Free Size)",
     price: "599",
@@ -1014,7 +1014,7 @@ const Data = [
   },
   {
     id: "114",
-    category: "Women's Section",
+    category: "Women'S Wear",
     image: "Wt_4",
     name: "TILKI woman's Lengha choli set",
     price: "1240",
@@ -1023,7 +1023,7 @@ const Data = [
   },
   {
     id: "115",
-    category: "Women's Section",
+    category: "Women'S Wear",
     image: "Wt_5",
     name: "Applix Style Women's Kanjivaram Soft Silk Unstitched Lehenga Choli",
     price: "2499",
@@ -1032,7 +1032,7 @@ const Data = [
   },
   {
     id: "116",
-    category: "Women's Section",
+    category: "Women'S Wear",
     image: "Wt_6",
     name: "RedRound Grey Printed Semi-Stitched Lehenga Choli",
     price: "2339",
@@ -1041,7 +1041,7 @@ const Data = [
   },
   {
     id: "117",
-    category: "Women's Section",
+    category: "Women'S Wear",
     image: "Wt_7",
     name: "Sangria Women Black Embellished Sequinned Heavy Work Saree",
     price: "1709",
@@ -1050,7 +1050,7 @@ const Data = [
   },
   {
     id: "118",
-    category: "Women's Section",
+    category: "Women'S Wear",
     image: "Wt_8",
     name: "Saree mall Pink & Blue Floral Dyed Banarasi Sarees",
     price: "1462",
@@ -1059,7 +1059,7 @@ const Data = [
   },
   {
     id: "119",
-    category: "Women's Section",
+    category: "Women'S Wear",
     image: "Wt_9",
     name: "GoSriKi Women's Cotton Straight Kurta with Palazzo & Dupatta ",
     price: "649",
@@ -1068,7 +1068,7 @@ const Data = [
   },
   {
     id: "120",
-    category: "Women's Section",
+    category: "Women'S Wear",
     image: "Wt_10",
     name: "Janasya Indian Women's Tunic Tops Crepe Kurti for Wome",
     price: "2142",
@@ -1077,7 +1077,7 @@ const Data = [
   },
   {
     id: "121",
-    category: "Women's Section",
+    category: "Women'S Wear",
     image: "Wt_11",
     name: "Janasya Indian Women's Tunic Tops Crepe Kurti for Women",
     price: "1842",
@@ -1086,7 +1086,7 @@ const Data = [
   },
   {
     id: "122",
-    category: "Women's Section",
+    category: "Women'S Wear",
     image: "Wt_12",
     name: "CHARTOU Women's Premium Metallic Shiny Shimmer Accordion Pleated Long Maxi Skirt",
     price: "2500",
@@ -1095,7 +1095,7 @@ const Data = [
   },
   {
     id: "123",
-    category: "Women's Section",
+    category: "Women'S Wear",
     image: "Wt_13",
     name: "Indian Pakistani Party Wear Wedding Wear Anarkali Gown Suit for Women LT2",
     price: "4500",
@@ -1103,7 +1103,7 @@ const Data = [
   },
   {
     id: "124",
-    category: "Women's Section",
+    category: "Women'S Wear",
     image: "Wt_14",
     name: "Afibi Boho Floral Long Summer Beach Chiffon Wrap Cover Up Maxi Skirt for Women",
     price: "2999",
@@ -1111,7 +1111,7 @@ const Data = [
   },
   {
     id: "125",
-    category: "Women's Section",
+    category: "Women'S Wear",
     image: "Wf_1",
     name: "PUMA Women's Laguna Fusion Sport Golf Shoe",
     price: "2999",
@@ -1120,7 +1120,7 @@ const Data = [
   },
   {
     id: "126",
-    category: "Women's Section",
+    category: "Women'S Wear",
     image: "Wf_2",
     name: "ALEADER Women's Energycloud Lightweight Slip On Walking Running Shoes",
     price: "2149",
@@ -1130,7 +1130,7 @@ const Data = [
 
   {
     id: "127",
-    category: "Women's Section",
+    category: "Women'S Wear",
     image: "Wf_3",
     name: "DUOYANGJIASHA Women's Athletic Road Running Mesh Breathable Casual Sneakers Lace Up Comfort Sports Student Fashion Tennis Shoes",
     price: "3999",
@@ -1140,7 +1140,7 @@ const Data = [
 
   {
     id: "128",
-    category: "Women's Section",
+    category: "Women'S Wear",
     image: "Wf_4",
     name: "Clarks Women's Breeze Sea    ",
     price: "999",
@@ -1149,7 +1149,7 @@ const Data = [
 
   {
     id: "129",
-    category: "Women's Section",
+    category: "Women'S Wear",
     image: "Wf_5",
     name: "Three-Zone Comfort with Orthotic Insole Arch Support, Sandals for Women, Flip Flops",
     price: "500",
@@ -1158,7 +1158,7 @@ const Data = [
 
   {
     id: "130",
-    category: "Women's Section",
+    category: "Women'S Wear",
     image: "Wf_6",
     name: "vivianly Clear Pointed Toe Sandals Stiletto Heels Transparent Strap High Heels Slip on Mules for Women",
     price: "1142",
@@ -1168,7 +1168,7 @@ const Data = [
 
   {
     id: "131",
-    category: "Women's Section",
+    category: "Women'S Wear",
     image: "Wf_7",
     name: "LifeStride Women's Charlotte Heeled Sandal",
     price: "2599",
@@ -1178,7 +1178,7 @@ const Data = [
 
   {
     id: "132",
-    category: "Women's Section",
+    category: "Women'S Wear",
     image: "Wf_8",
     name: "vivianly Pointed Toe Slingback Sandals Ankle Strap Heeled Sandals Wedding Dress Stiletto High Heels for Women",
     price: "500",
@@ -1187,7 +1187,7 @@ const Data = [
 
   {
     id: "133",
-    category: "Women's Section",
+    category: "Women'S Wear",
     image: "Wf_9",
     name: "Clarks Women's Emslie Lulin Pump",
     price: "765",
@@ -1196,7 +1196,7 @@ const Data = [
 
   {
     id: "134",
-    category: "Women's Section",
+    category: "Women'S Wear",
     image: "Wf_10",
     name: "Sivellya Womens Ankle Boots Fashion Stylish Comfortable Buckled Boots Wide Width Round Toe Low Heel Bootie Grey Brown",
     price: "1200",
@@ -1205,7 +1205,7 @@ const Data = [
   },
   {
     id: "135",
-    category: "Men's Section",
+    category: "Men'S Wear",
     image: "Me_1",
     name: "Tathastu Mens Sherwani Kurta Pyjama Set",
     price: "1190",
@@ -1214,7 +1214,7 @@ const Data = [
   },
   {
     id: "136",
-    category: "Men's Section",
+    category: "Men'S Wear",
     image: "Me_2",
     name: "ONTTNO Men's Loose Stretchy Waist Casual Ankle Length Pants",
     price: "2999",
@@ -1222,7 +1222,7 @@ const Data = [
   },
   {
     id: "137",
-    category: "Men's Section",
+    category: "Men'S Wear",
     image: "Me_3",
     name: "Wehilion Vest Pant Men 2 Pieces Dress Suit Vest Pant Set Slim Fit Casual Suit Waistco",
     price: "2500",
@@ -1231,7 +1231,7 @@ const Data = [
   },
   {
     id: "138",
-    category: "Men's Section",
+    category: "Men'S Wear",
     image: "Me_4",
     name: "YFFUSHI Men's Slim Fit 3 Piece Suit One Button Business Wedding Prom Suits Blazer Tux Vest & Trousers",
     price: "4999",
@@ -1240,7 +1240,7 @@ const Data = [
   },
   {
     id: "139",
-    category: "Men's Section",
+    category: "Men'S Wear",
     image: "Me_5",
     name: "MLANM Mens Casual Slim Fit Basic Henley Short/Long Sleeve Fashion Cotton T-Shirt",
     price: "500",
@@ -1248,7 +1248,7 @@ const Data = [
   },
   {
     id: "140",
-    category: "Men's Section",
+    category: "Men'S Wear",
     image: "Me_6",
     name: "LEOTUDE Regular Fit Full Sleeve Men's T-Shirt",
     price: "299",
@@ -1257,7 +1257,7 @@ const Data = [
   },
   {
     id: "141",
-    category: "Men's Section",
+    category: "Men'S Wear",
     image: "Me_7",
     name: "Dennis Lingo Men's Classic Collar Casual Shirt",
     price: "439",
@@ -1266,7 +1266,7 @@ const Data = [
   },
   {
     id: "142",
-    category: "Men's Section",
+    category: "Men'S Wear",
     image: "Me_8",
     name: "Maniac Men's Cargo Black Cotton Jogger",
     price: "849",
@@ -1275,7 +1275,7 @@ const Data = [
   },
   {
     id: "143",
-    category: "Men's Section",
+    category: "Men'S Wear",
     image: "Me_9",
     name: "Peppyzone Men's Camouflage Regular Fit Track Pant",
     price: "499",
@@ -1284,7 +1284,7 @@ const Data = [
   },
   {
     id: "144",
-    category: "Men's Section",
+    category: "Men'S Wear",
     image: "Me_10",
     name: "Levi's Men's 512 Regular Fit Chino Jeans",
     price: "1190",
@@ -1292,7 +1292,7 @@ const Data = [
   },
   {
     id: "145",
-    category: "Men's Section",
+    category: "Men'S Wear",
     image: "Me_11",
     name: "Merrell Men's Moab 2 Vent Hiking Shoe",
     price: "2999",
@@ -1300,7 +1300,7 @@ const Data = [
   },
   {
     id: "146",
-    category: "Men's Section",
+    category: "Men'S Wear",
     image: "Me_12",
     name: "Breathable mesh lining. 5mm lug depth",
     price: "1500",
@@ -1308,7 +1308,7 @@ const Data = [
   },
   {
     id: "147",
-    category: "Men's Section",
+    category: "Men'S Wear",
     image: "Me_13",
     name: "TFO Hiking Shoes Men Waterproof Air Circulation Insole Ankle Support Non-Slip Lightweight for Outdoor Trekking Walking",
     price: "3000",
@@ -1316,7 +1316,7 @@ const Data = [
   },
   {
     id: "148",
-    category: "Men's Section",
+    category: "Men'S Wear",
     image: "Me_14",
     name: "OOFOS Unisex OOCloog - Lightweight Recovery Footwear - Reduces Pressure on Feet, Joints & Back - Machine Washable",
     price: "500",
@@ -1324,7 +1324,7 @@ const Data = [
   },
   {
     id: "149",
-    category: "Men's Section",
+    category: "Men'S Wear",
     image: "Me_15",
     name: "Under Armour Men's Ansa Fix Slide Sandal",
     price: "399",
@@ -1333,7 +1333,7 @@ const Data = [
   },
   {
     id: "150",
-    category: "Men's Section",
+    category: "Men'S Wear",
     image: "Me_16",
     name: "PUMA Men's Ignite Fasten8 Golf Shoe",
     price: "299",
@@ -1341,7 +1341,7 @@ const Data = [
   },
   {
     id: "151",
-    category: "Women's Section",
+    category: "Women'S Wear",
     image: "Ww_1",
     name: "DouBCQ Womens Summer Romper Casual Short Jumpsuits with Pockets",
     price: "1420",
@@ -1350,7 +1350,7 @@ const Data = [
   },
   {
     id: "152",
-    category: "Women's Section",
+    category: "Women'S Wear",
     image: "Ww_2",
     name: "luvamia Women's Casual Short Sleeve Belted Overlay Keyhole Back Jumpsuits Romper",
     price: "1999",
@@ -1358,7 +1358,7 @@ const Data = [
   },
   {
     id: "153",
-    category: "Women's Section",
+    category: "Women'S Wear",
     image: "Ww_3",
     name: "Floerns Women's Casual Boho Ruffle Long Bell Sleeve Tops Tee Shirt",
     price: "599",
@@ -1366,7 +1366,7 @@ const Data = [
   },
   {
     id: "154",
-    category: "Women's Section",
+    category: "Women'S Wear",
     image: "Ww_4",
     name: "Dressystar Women's V Neck Sleeveless Lace Bridesmaid Dress Wedding Party Gown",
     price: "2500",
@@ -1375,7 +1375,7 @@ const Data = [
   },
   {
     id: "155",
-    category: "Women's Section",
+    category: "Women'S Wear",
     image: "Ww_5",
     name: "The Drop Women's Gabriela High Neck Cut-In A-Line Side Slit Maxi Sweater Dress",
     price: "999",
@@ -1383,7 +1383,7 @@ const Data = [
   },
   {
     id: "156",
-    category: "Women's Section",
+    category: "Women'S Wear",
     image: "Ww_6",
     name: "We1Fit Women's Jogger Sweatpants High Waisted Loose Fit Athletic Gym Pants with Pockets",
     price: "499",
@@ -1392,7 +1392,7 @@ const Data = [
   },
   {
     id: "157",
-    category: "Women's Section",
+    category: "Women'S Wear",
     image: "Ww_7",
     name: "Libin Women's Cargo Joggers Lightweight Quick Dry Hiking Pants Athletic Workout Lounge Casual Outdoor",
     price: "899",
@@ -1401,7 +1401,7 @@ const Data = [
   },
   {
     id: "158",
-    category: "Women's Section",
+    category: "Women'S Wear",
     image: "Ww_8",
     name: "Hotouch Womens Flannel Plaid Shirts Roll Up Long Sleeve Pockets Mid-Long Casual Boyfriend Shirts",
     price: "699",
@@ -1409,7 +1409,7 @@ const Data = [
   },
   {
     id: "159",
-    category: "Women's Section",
+    category: "Women'S Wear",
     image: "Ww_9",
     name: "Hotouch Womens Cotton Linen Shirts Roll-Up Sleeve Button Down Shirt Summer Casual Long Sleeve V Neck Solid Blouse",
     price: "499",
@@ -1417,7 +1417,7 @@ const Data = [
   },
   {
     id: "160",
-    category: "Women's Section",
+    category: "Women'S Wear",
     image: "Ww_10",
     name: "SheIn Women's Two Piece Open Front Long Sleeve Blazer and Elastic Waist Solid Pant Set Suit",
     price: "3999",

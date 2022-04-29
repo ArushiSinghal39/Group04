@@ -11,8 +11,8 @@ customField:
   values:
     [
       { name: "One Cake", priceChange: 0 },
-      { name: "Pack of 6", priceChange: -1.00 },
-      { name: "Pack of 12", priceChange: 28.50 },
+      { name: "Pack of 6", priceChange: 600 },
+      { name: "Pack of 12", priceChange: 388.50 },
     ]
 ---
 
