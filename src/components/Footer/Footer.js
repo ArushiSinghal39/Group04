@@ -8,7 +8,7 @@ const Footer = () => {
       <footer className="container py-5">
         <div className="row">
           <div className="col-2">
-            <h5 className="text-primary">Section</h5>
+            <h5 className="text-primary">Little Big Mart</h5>
             <ul className="nav flex-column">
               <li className="nav-item mb-2">
                 <a href="/" className="nav-link p-0 text-muted">
