@@ -5,19 +5,7 @@ import Image from "../Images/Images"
 
 const Items = [
   {
-    name: "Yash Goyal",
-    facebook: "https://www.facebook.com",
-    instagram: "https://www.instagram.com",
-    linkedin: "https://www.linkedin.com",
-  },
-  {
     name: "Arushi Singhal",
-    facebook: "https://www.facebook.com",
-    instagram: "https://www.instagram.com",
-    linkedin: "https://www.linkedin.com",
-  },
-  {
-    name: "Arnav Goenka",
     facebook: "https://www.facebook.com",
     instagram: "https://www.instagram.com",
     linkedin: "https://www.linkedin.com",
@@ -48,7 +36,7 @@ const Team = () => {
                       width: "150px",
                       borderRadius: "100%",
                     }}
-                    filename={`${item.name}.jpg`}
+                    filename={`${item.name}.jpeg`}
                     alt="1"
                   />
                   <h3 className="text-primary m-2">{item.name}</h3>
