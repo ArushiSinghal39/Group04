@@ -3,7 +3,7 @@ title: "This is a second Blog Post"
 date: "01-03-2022"
 author: "Arushi Singhal"
 description: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s."
-image: "Arushi Singhal"
+image: "blog2"
 ---
 
 # What is Lorem Ipsum?
