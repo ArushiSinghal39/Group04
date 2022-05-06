@@ -17,7 +17,7 @@ const Blog = ({ data }) => {
                     <div className="figure">
                       <Image
                         style={{ borderRadius: "0px" }}
-                        filename={`${edge.node.frontmatter.image}.jpeg`}
+                        filename={`${edge.node.frontmatter.image}.jpg`}
                         alt={edge.node.frontmatter.image}
                       />
 
