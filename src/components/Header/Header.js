@@ -44,7 +44,7 @@ class Header extends React.Component {
       >
         <div className="container-fluid">
           <a className="navbar-brand" href="/">
-            | Little BIG Mart|
+            | Little Mart|
           </a>
           <button
             className="navbar-toggler"
