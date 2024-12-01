@@ -44,7 +44,7 @@ class Header extends React.Component {
       >
         <div className="container-fluid">
           <a className="navbar-brand" href="/">
-            | Little Mart|
+            Little Mart
           </a>
           <button
             className="navbar-toggler"
@@ -79,13 +79,7 @@ class Header extends React.Component {
               </Link>
 
               <Link className="fw-bold" to="/mart">
-                <button className="btn btn-disabled m-0">
-                  {" "}
-                  <Shop fill="#ffa900" size="30" />{" "}
-                  <span className="fw-bold" style={{ color: "#ffa900" }}>
-                    Mart
-                  </span>
-                </button>
+                <li className="btn text-warning fw-bold"> Mart</li>
               </Link>
             </ul>
             <div className="snipcart-summary">
